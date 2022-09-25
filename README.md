@@ -7,14 +7,14 @@
 </p> 
 
 
-### Étape 1 :  Cloner le repository github
+### Étape 1 :  On clone le repository github
 ```ruby
 git clone https://github.com/GhaithMag/Classification_Images_Tumeur.git
 ```
 
-### Étape 2 :  Dézipper le fichier Cerveaux_Tumeurs.zip
+### Étape 2 :  On télécharge les données : https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset 
 
-### Étape 3 : <p> Github ne permettant pas de pusher des fichiers volumineux vous n'avez pas tout le dataset dans le fichier zip. Mais pas de soucis il suffit d'aller sur le lien suivant https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset, de télécharger le dataset et en enfin de remplir les sous-répertoires ""Healthy"" et ""Tumor"" du dossier Entrainement avec les nouvelles données </p>.
+### Étape 3 : On ouvrir le notebook et on s'entraine. ;) 
 
 
-### Étape 4 : Ouvrir le notebook et s'entrainer. ;) 
+
